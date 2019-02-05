@@ -7,6 +7,9 @@ import java.util.*;
  * Hello world!
  *
  */
+
+
+ // This is the task in which we have to test our code using Junit
 public class App 
 {
     public String consecutive (String s)
